@@ -48,7 +48,7 @@ Copy code
 npm start
 This will start a development server, and you can access the form in your web browser at http://localhost:3000.
 
-##Usage
+## Usage
 -Open the form in your web browser.
 -Follow the multi-step process to provide your gaming preferences.
 -Make sure to complete each step as required.
@@ -56,7 +56,7 @@ This will start a development server, and you can access the form in your web br
 -Enjoy exploring games tailored to your interests!
 
 
-##Contributing
+## Contributing
 Contributions to this project are welcome. If you would like to contribute, please follow these steps:
 
 -Fork the repository.
@@ -65,5 +65,5 @@ Contributions to this project are welcome. If you would like to contribute, plea
 -Push your changes to your fork: git push origin feature/your-feature.
 -Create a pull request to the main branch of the original repository.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
