@@ -1,6 +1,7 @@
 # Gaming Multi-Step Form
 
-[Desktop Preview](images/design/desktop-design-step-1)
+![Desktop Preview](images/design/desktop-design-step-1.jpg)
+![BlackJack Screenshot](screenshots/screeenshot.png)
 
 Welcome to the Gaming Multi-Step Form project! This project aims to create a user-friendly and interactive multi-step form for gaming enthusiasts to share their preferences and interests.
 
