@@ -1,4 +1,4 @@
-# Gaming Multi-Step Form
+# Multi-Step Form
 
 ![Desktop Preview](images/design/desktop-design-step-1.jpg)
 ![Mobile Preview](images/design//mobile-design-step-1.jpg)
